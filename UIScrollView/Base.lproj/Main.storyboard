@@ -199,6 +199,9 @@
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" id="DhB-py-Rga"/>
+                    <connections>
+                        <outlet property="scrollView" destination="Jqe-9X-vXu" id="KLX-TI-Qjx"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
